@@ -11,7 +11,6 @@
 - <kbd style="background-color: #f0f0f0">Interactive 3D Icons:</kbd> Each 3D icon reacts interactively with custom shadows, providing a sense of depth and realism.
 - <kbd style="background-color: #f0f0f0">Animated SF Icons (iOS 17):</kbd> The project showcases the use of animated SF icons, a feature introduced in iOS 17, adding a dynamic and lively element to the user interface.
 - <kbd style="background-color: #f0f0f0">ScrollTransition Modifiers:</kbd> Leveraging the ScrollTransition modifier, the project achieves smooth and engaging animations when scrolling through content.
-- <kbd style="background-color: #f0f0f0">Real-time Animations:</kbd> The project utilizes real-time animations for smooth transitions and engaging user interactions.
 
 <br>
 
@@ -50,6 +49,7 @@
 ### **Customization**
 - <kbd style="background-color: #f0f0f0">Shader Experiments:</kbd> You can experiment with different Metal shaders by modifying the functions in the ShaderLibrary file. Adjust parameters to see how they affect visual output.
 - <kbd style="background-color: #f0f0f0">Adjust Scrolling Behavior:</kbd> Customize the scrolling behavior by tweaking parameters in the CardView file. Adjust animations, offsets, and other properties to fine-tune the user experience.
+- <kbd style="background-color: #f0f0f0">Vertical Scrolling Behavior:</kbd> Can easily be switched into a Vertical scroller in ContentView.
 
 #### **Acknowledgements**
 - Metal shaders credit: Hacking with Swift
