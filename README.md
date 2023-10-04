@@ -1,6 +1,5 @@
 # <p align="center">**CustomScrolling with Metal Shaders**</p>
 #### <p align="center"> This SwiftUI project showcases a unique scrolling behavior combined with the use of Metal shaders for visual effects. It provides an interactive and visually engaging user experience. 
-Please note: Higher quality gifs coming soon.
 </p>
 
 <br>
@@ -13,6 +12,7 @@ Please note: Higher quality gifs coming soon.
 - <kbd style="background-color: #f0f0f0">Animated SF Icons (iOS 17):</kbd> The project showcases the use of animated SF icons, a feature introduced in iOS 17, adding a dynamic and lively element to the user interface.
 - <kbd style="background-color: #f0f0f0">ScrollTransition Modifiers:</kbd> Leveraging the ScrollTransition modifier, the project achieves smooth and engaging animations when scrolling through content.
 
+
 <br>
 
 ### **Videos and Demos**
@@ -23,7 +23,7 @@ Please note: Higher quality gifs coming soon.
 
 | Light/Dark | WaveShaders |
 |:---------------:|:----------------:|
-|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/6da8ffd4-aa46-4276-82ef-411ad30d0bf5">|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/c76dabb8-6603-4014-9162-e823f76f681f">|
+|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/f9fc57eb-0c08-4429-99ab-edd0980fca20">|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/c76dabb8-6603-4014-9162-e823f76f681f">|
 
 | MetalShaders | keyframeAnimator |
 |:---------------:|:----------------:|
