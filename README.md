@@ -19,15 +19,15 @@ Please note: Higher quality gifs coming soon.
 
 | Custom Scrolling | Card Navigation |
 |:---------------:|:----------------:|
-|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/c3642f69-8b1e-4cf2-9809-ea551c9620f1">|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/e1b05919-acf9-4572-a887-578883737d66">|
+|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/e97dec11-9e92-46d4-9741-8da31b8bad38">|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/74a24bc3-e0ce-4663-affd-60e37540e5d6">|
 
 | Light/Dark | WaveShaders |
 |:---------------:|:----------------:|
-|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/6da8ffd4-aa46-4276-82ef-411ad30d0bf5">|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/8b21c85c-5acb-4501-bb06-22bf6581207b">|
+|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/6da8ffd4-aa46-4276-82ef-411ad30d0bf5">|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/c76dabb8-6603-4014-9162-e823f76f681f">|
 
 | MetalShaders | keyframeAnimator |
 |:---------------:|:----------------:|
-|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/f08cc23f-c684-432d-8788-9b67d12ffb4d">|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/779e11ae-2c5d-4e88-9cc1-d2f2d806cdbc">|
+|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/1c433fdc-ed59-461d-8763-ac98f5cb7fda">|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/1e7420ce-5887-4843-8fbf-2663f31aee1a">|
 
 
 <br>
