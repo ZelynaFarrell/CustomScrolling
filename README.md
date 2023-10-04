@@ -19,9 +19,17 @@
 
 ### **Videos and Demos**
 
-| Custom Scrolling |
-|:---------------:|
-|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/c3642f69-8b1e-4cf2-9809-ea551c9620f1">|
+| Custom Scrolling | Card Navigation |
+|:---------------:|:----------------:|
+|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/c3642f69-8b1e-4cf2-9809-ea551c9620f1">|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/e1b05919-acf9-4572-a887-578883737d66">|
+
+| Light/Dark | WaveShaders |
+|:---------------:|:----------------:|
+|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/6da8ffd4-aa46-4276-82ef-411ad30d0bf5">|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/8b21c85c-5acb-4501-bb06-22bf6581207b">|
+
+| MetalShaders | keyframeAnimator |
+|:---------------:|:----------------:|
+|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/f08cc23f-c684-432d-8788-9b67d12ffb4d">|<img width="400" src="https://github.com/ZelynaFarrell/CustomScrolling/assets/117409535/779e11ae-2c5d-4e88-9cc1-d2f2d806cdbc">|
 
 
 <br>
