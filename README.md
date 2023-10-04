@@ -1,5 +1,6 @@
 # <p align="center">**CustomScrolling with Metal Shaders**</p>
-#### <p align="center"> This SwiftUI project showcases a unique scrolling behavior combined with the use of Metal shaders for visual effects. It provides an interactive and visually engaging user experience.
+#### <p align="center"> This SwiftUI project showcases a unique scrolling behavior combined with the use of Metal shaders for visual effects. It provides an interactive and visually engaging user experience. 
+Please note: Higher quality gifs coming soon.
 </p>
 
 <br>
