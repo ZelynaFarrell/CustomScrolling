@@ -1,4 +1,4 @@
-# <p align="center">**CustomScrolling with Metal Shaders**</p>
+# <p align="center">**CustomScrolling w Metal Shaders**</p>
 #### <p align="center"> This SwiftUI project showcases a unique scrolling behavior combined with the use of Metal shaders for visual effects.
 </p>
 
